@@ -33,7 +33,7 @@ The program is a README Generator and creates a README for the client. The progr
 
 Readme Creator using input from user.
 
-## Licence
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
 
@@ -45,5 +45,6 @@ Self
 
 https://drive.google.com/file/d/1_faiB90wDWgadQaP-2t-vpWZ3RE8FJVg/view
 
-<video src="Node_README_Demo.mp4" type="" width="1200" height="600" controls></video>
+<video src="Node_README_Demo.mp4" type="video/mp4" width="1200" height="600" controls></video>
+
 
