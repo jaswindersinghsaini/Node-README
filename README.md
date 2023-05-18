@@ -49,5 +49,5 @@ https://drive.google.com/file/d/1_faiB90wDWgadQaP-2t-vpWZ3RE8FJVg/view
 <!-- <video src="https://github.com/jaswindersinghsaini/Node-README/assets/126640386/13a86ffe-6e30-4153-846b-6936db216d13" controls></video> -->
 
 
-<video src="https://drive.google.com/file/d/1_faiB90wDWgadQaP-2t-vpWZ3RE8FJVg/preview" controls></video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1_faiB90wDWgadQaP-2t-vpWZ3RE8FJVg/preview)
 
